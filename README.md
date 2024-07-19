@@ -26,10 +26,12 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+   
     My skills, I would say, are gaming, which involves mastering various strategic thinking and planning.
     This skill is crucial in games that require long-term planning, resource management, and decision-making under pressure.
 
     - Identify skills you need to develop or improve.
+   
     Software Engineering Practices: Improve skills in writing clean, modular, and efficient code, including version control (e.g., Git) and software design patterns.
     Collaboration and Communication: Improve skills in effectively communicating technical concepts to non-technical stakeholders and collaborating within interdisciplinary teams.    
     By focusing on these areas, I aim to broaden my expertise and contribute more effectively in complex projects
@@ -37,10 +39,12 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
+    
     Software Development: I am passionate about building software applications that solve real-world problems and enhance efficiency. 
     Game Development: I am fascinated by the process of creating interactive and immersive gaming experiences. This includes everything from conceptualizing game mechanics and designing gameplay loops to implementing game features and optimizing performance.
 
     - What values are important to you in a work environment?
+   
     Integrity: I value honesty and ethical behavior in all aspects of work. A workplace that upholds integrity fosters trust among team members and stakeholders, creating a positive and respectful atmosphere.
     Adaptability: In today's fast-paced world, adaptability to change is essential. A work environment that encourages flexibility, agility, and resilience enables teams to navigate uncertainties, seize opportunities, and thrive in evolving circumstances.
 
@@ -49,17 +53,21 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+    
     Software engineer, software developement, project management.
 
     - Note any particular areas that piqued your interest.
+    
     Project manager and software developer
 rst
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+    
     Problem-solving, time management and organization.
 
     - Identify any gaps or areas for further exploration.
+   
     My communication needs to be worked on.
 
 ### Part 3: SMART Career Goals
@@ -67,19 +75,23 @@ rst
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
+    
     Complete my software development course for the next 6 months.
     Work on my skills to improve to obtain a flexible career.
 
 
     - Explain the rationale behind each goal.
+    
     To start using my skills to create my own business.
 
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+   
     To become financially indepedent on my own.
 
     - Describe how these align with your interests and skills.
+    
     Freelancing my skills for services would help achieve this goal.
 
 ### Part 4: Action Plan
@@ -87,17 +99,21 @@ rst
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+    
     Working through the LMS and Scrimba.
     Submitting my work on time.
 
     - Include any resources or support required.
+    
     Any resource as youtube videos, w3schools and the lms content to help.
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
-    Preparing for my long-term aspirations requires careful planning, skill development, and strategic actions to  achieve these goals, by using my skills for freelancing services.
+   
+   Preparing for my long-term aspirations requires careful planning, skill development, and strategic actions to  achieve these goals, by using my skills for freelancing services.
 
     - Consider additional skills, experiences, or qualifications needed.
+   
     Quality management and risk management.
 
 
@@ -106,16 +122,20 @@ rst
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
+   
     More business competitors selling there services of software development.
 
     - Consider strategies to overcome these challenges.
+    
     Use a niche  to specialize my business and monitor the competitors trends.
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
+    
     Continuous learning to develop my skills further.  
 
     - Include networking, mentorship, or educational opportunities.
+   
     Online learning and resources.
     Educational opportunities.
 
